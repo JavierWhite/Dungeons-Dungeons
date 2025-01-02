@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Javier\\Documents\\Unreal Projects\\Dungeons-Dungeons\\Dungeons_Dungeons\\Dungeon_Crawlergame\\Source\\Dungeon_Crawlergame\\Dungeon_Crawlergame.Build.cs",
+		"C:\\Users\\Javier\\Documents\\Unreal Projects\\Dungeons-Dungeons\\Dungeons_Dungeons\\Dungeon_Crawlergame\\Source\\Dungeon_Crawlergame.Target.cs",
+		"C:\\Users\\Javier\\Documents\\Unreal Projects\\Dungeons-Dungeons\\Dungeons_Dungeons\\Dungeon_Crawlergame\\Source\\Dungeon_CrawlergameEditor.Target.cs"
+	],
+	"EngineVersion": "5.4.2"
+}

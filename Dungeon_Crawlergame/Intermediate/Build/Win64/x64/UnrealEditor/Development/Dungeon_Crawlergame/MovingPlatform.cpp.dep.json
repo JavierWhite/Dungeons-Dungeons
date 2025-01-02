@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\javier\\documents\\unreal projects\\dungeons-dungeons\\dungeons_dungeons\\dungeon_crawlergame\\source\\dungeon_crawlergame\\movingplatform.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\javier\\documents\\unreal projects\\dungeons-dungeons\\dungeons_dungeons\\dungeon_crawlergame\\intermediate\\build\\win64\\x64\\dungeon_crawlergameeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "Includes": [
+            "c:\\users\\javier\\documents\\unreal projects\\dungeons-dungeons\\dungeons_dungeons\\dungeon_crawlergame\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dungeon_crawlergame\\definitions.dungeon_crawlergame.h",
+            "c:\\users\\javier\\documents\\unreal projects\\dungeons-dungeons\\dungeons_dungeons\\dungeon_crawlergame\\source\\dungeon_crawlergame\\movingplatform.h",
+            "c:\\users\\javier\\documents\\unreal projects\\dungeons-dungeons\\dungeons_dungeons\\dungeon_crawlergame\\intermediate\\build\\win64\\unrealeditor\\inc\\dungeon_crawlergame\\uht\\movingplatform.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

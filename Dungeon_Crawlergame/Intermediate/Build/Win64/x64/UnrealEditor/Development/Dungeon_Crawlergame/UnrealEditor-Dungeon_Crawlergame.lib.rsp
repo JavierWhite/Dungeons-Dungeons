@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Dungeon_Crawlergame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\Dungeon_CrawlergameEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderOldest.h.obj"
+"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dungeon_Crawlergame\Dungeon_Crawlergame.init.gen.cpp.obj"
+"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dungeon_Crawlergame\MovingPlatform.gen.cpp.obj"
+"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dungeon_Crawlergame\Dungeon_Crawlergame.cpp.obj"
+"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dungeon_Crawlergame\MovingPlatform.cpp.obj"
+"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dungeon_Crawlergame\Default.rc2.res"
+/OUT:"C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\x64\UnrealEditor\Development\Dungeon_Crawlergame\UnrealEditor-Dungeon_Crawlergame.lib"
