@@ -1,0 +1,4 @@
+[0101/184250.877:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 1
+[0101/184342.386:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0101/184342.386:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0101/184446.835:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

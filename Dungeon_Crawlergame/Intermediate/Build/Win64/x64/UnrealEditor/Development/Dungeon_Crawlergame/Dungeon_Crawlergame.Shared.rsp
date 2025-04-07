@@ -281,8 +281,8 @@
 /I "Editor\SceneDepthPickerMode\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationEditMode\UHT"
 /I "Editor\AnimationEditMode\Public"
-/I "C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\UnrealEditor\Inc\Dungeon_Crawlergame\UHT"
-/I "C:\Users\Javier\Documents\Unreal Projects\Dungeons-Dungeons\Dungeons_Dungeons\Dungeon_Crawlergame\Source"
+/I "C:\Users\Javier\Documents\Unreal Projects\Dungeon_Project\Dungeons-Dungeons\Dungeon_Crawlergame\Intermediate\Build\Win64\UnrealEditor\Inc\Dungeon_Crawlergame\UHT"
+/I "C:\Users\Javier\Documents\Unreal Projects\Dungeon_Project\Dungeons-Dungeons\Dungeon_Crawlergame\Source"
 /external:W0
 /external:I "ThirdParty\LibTiff\Source\Win64"
 /external:I "ThirdParty\LibTiff\Source"
